@@ -1,0 +1,22 @@
+*{
+  font-family: calibri;
+}
+
+
+
+.card{
+   margin-top: 20px;
+   margin-left: 20px;
+}
+
+body{
+  background-color: #7DF9FF;
+}
+
+div{
+  float: left;
+}
+
+button{
+  float: left;
+}
