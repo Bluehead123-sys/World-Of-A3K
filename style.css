@@ -1,5 +1,6 @@
 *{
   text-decoration: none;
+  font-family: calibri;
 }
 
 .navbar{
@@ -42,11 +43,6 @@ body{
   border-radius: 20px;
 }
 
-h1{
-  font-family: calibri;
-}
-
 p{
   font-size: 20px;
-  font-family: calibri;
 }
